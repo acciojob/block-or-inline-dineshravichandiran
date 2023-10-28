@@ -1,16 +1,2 @@
-/* styles.css */
-[data-ns-test="block-inline-button"],
-[data-ns-test="block-inline-div"],
-[data-ns-test="block-inline-p"],
-[data-ns-test="block-inline-h1"] {
-    display: block; /* Display as block elements */
-}
 
-[data-ns-test="block-inline-span"],
-[data-ns-test="block-inline-input"],
-[data-ns-test="block-inline-cite"],
-[data-ns-test="block-inline-code"],
-[data-ns-test="block-inline-sup"],
-[data-ns-test="block-inline-sub"] {
-    display: inline; /* Display as inline elements */
-}
+/* Your CSS Code here. */
